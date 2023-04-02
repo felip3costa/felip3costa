@@ -6,7 +6,7 @@ Sou estudante de ciência da computação, e atualmente estou trabalhando num pr
 ```bash
 Python
 Django
-Bootstrap
+Java
 JavaScript
 
 ```
