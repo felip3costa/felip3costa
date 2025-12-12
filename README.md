@@ -1,16 +1,31 @@
 # Felipe Costa
-Sou estudante de ciência da computação, e atualmente estou trabalhando num projeto pessoal, para vê-lo acesse [Curriculo Space](curriculo.space)
+Sou *IBM Maximo Consultant* pela *Bentley Systems*, mas no tempo livre me aventuro em criar novas coisas e ajudar pessoas a saírem do EXCEL!
+Ser desafiado a fazer coisas novas e diferente me deixa motivado.
 
 ## Meus interesses
 
 ```bash
 Python
 Django
-Java
 JavaScript
+React
+Tailwind
+IBM MAS
+IBM Maximo
 
 ```
 
+
+## No que eu sou bom
+
+```python
+from all.content import intelligence
+# Ainda não descobri..
+
+if :
+  print('Não tem condições!')
+
+```
 
 
 <!---
